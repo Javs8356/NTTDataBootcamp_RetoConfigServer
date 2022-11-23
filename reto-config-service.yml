@@ -1,7 +1,5 @@
-server:
-  port: 8088
 product:
-  product-name: Zapatillas de Deporte (AZUL MODIFICADO 3)
+  product-name: Google Pixel 7 PRO
 management:
   endpoints:
     web:
