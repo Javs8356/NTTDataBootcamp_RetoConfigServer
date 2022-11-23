@@ -2,4 +2,8 @@ server:
   port: 8088
 product:
   product-name: Zapatillas de Deporte (AZUL MODIFICADO 2)
-  
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
