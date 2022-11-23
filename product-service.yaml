@@ -1,7 +1,7 @@
 server:
   port: 8088
 product:
-  product-name: Zapatillas de Deporte (AZUL MODIFICADO 2)
+  product-name: Zapatillas de Deporte (AZUL MODIFICADO 3)
 management:
   endpoints:
     web:
